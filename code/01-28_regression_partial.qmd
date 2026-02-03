@@ -410,7 +410,7 @@ ggplot(reg_dfw,
               alpha = 0.5, 
               inherit.aes = FALSE)
 ```
-
+hey
 # 5) Quadratic regression  
 ## a) Model
 
